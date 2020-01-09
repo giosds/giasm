@@ -1,9 +1,16 @@
 # giasm
+PERSONAL WEBSITE:
+https://www.giosdatascience.com/
+
+The 8088 Assembler and Tracer Toolkit was used:
+https://github.com/StoDevX/as88
+
+=================================================================
+
 Assembly code - Exotic option simulation
 
 THIS PROGRAM SIMULATES THE BEHAVIOR OF AN EXOTIC OPTION.
 
------------------------------------------------------------------
 PROGRAM:
 THE PROGRAM ASKS THE USER WHETHER HE PREFERS TO BUY A PUT OR A CALL.
 SUBSEQUENTLY, IT PRICES THE DERIVATIVE VIA MONTECARLO.	
