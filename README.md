@@ -26,6 +26,7 @@ REACHES A BARRIER, THE PRICE IS FIXED UNTIL EXPIRATION.
 
 -----------------------------------------------------------------
 PROGRAM DESCRIPTION:
+
 Whenever possible, multiplications are done before divisions, in order 
 	to contain remainder approximations.
 
