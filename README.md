@@ -84,7 +84,7 @@ on the CX register.
 _hMcCount * _lMcCount is the number of trajectories Montecarlo runs on.
 NOP1 * NOP2 is the number of cycles the program skips between the demonstrative plots.
 
-=================================================================
+-----------------------------------------------------------------
 This file, [main.s], contains the main part of the program:
 	- Computes some useful math initializations
 	- If the debug flag is on, assigns values and skip parts
