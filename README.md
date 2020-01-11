@@ -86,18 +86,6 @@ _hMcCount * _lMcCount is the number of trajectories Montecarlo runs on.
 NOP1 * NOP2 is the number of cycles the program skips between the demonstrative plots.
 
 -----------------------------------------------------------------
-This file, [main.s], contains the main part of the program:
-	- Computes some useful math initializations
-	- If the debug flag is on, assigns values and skip parts
-	Otherwise:
-	- Requires the user to generate 3 numbers as time spans
-	- Assembles the numbers into seeds
-			the seeds are used to initialize the random sequences
-			every sequence generation updates the seeds with the last generated element
-	- Runs Montecarlo and stores the payoff
-		Also plots the first MAXMCPLT sequences, inserting NOPs to let the user see them
-	- Computes one last trajetory and plots it
------------------------------------------------------------------
 RUN AS:
 ./s88 main
 -----------------------------------------------------------------
