@@ -97,7 +97,9 @@ This file, [main.s], contains the main part of the program:
 	- Runs Montecarlo and stores the payoff
 		Also plots the first MAXMCPLT sequences, inserting NOPs to let the user see them
 	- Computes one last trajetory and plots it
-
+-----------------------------------------------------------------
+RUN AS:
+./s88 main
 -----------------------------------------------------------------
 ASSEMBLE AS:
 ./as88 main prFuncs series genrand vars mtCarlo prTraj
