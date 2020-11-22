@@ -1,6 +1,4 @@
 # giasm
-PERSONAL WEBSITE:
-https://www.giosdatascience.com/
 
 The 8088 Assembler and Tracer Toolkit was used:
 https://github.com/StoDevX/as88
